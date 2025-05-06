@@ -1,9 +1,9 @@
 {
     "$schema": "./mfdevice.schema.json",
     "Info": {
-      "Label": "Mobiflight's template",
-      "Type": "MOBIFLIGHT_TEMPLATE",
-      "Author": "Mobiflight",
+      "Label": "Saves's MF_ASI",
+      "Type": "MF_ASI",
+      "Author": "Saves",
       "URL": "https://github.com",
       "Version" : "1.0.0"
     },

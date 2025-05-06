@@ -23,15 +23,14 @@
     "CanInstallFirmware": true,
     "CanResetBoard": true,
     "DelayAfterFirmwareUpdate": 0,
-    "FirmwareBaseName": "mobiflight_template_esp32s3",
+    "FirmwareBaseName": "saves_mf_asi_esp32s3",
     "FirmwareExtension": "bin",
-    "FriendlyName": "Template ESP32-S3 DevKitC1",
+    "FriendlyName": "Saves MF_ASI ESP32-S3 DevKitC1",
     "LatestFirmwareVersion": "2.5.1",
-    "MobiFlightType": "Mobiflight Template ESP32-S3 DevKitC1",
+    "MobiFlightType": "Saves MF_ASI ESP32-S3 DevKitC1",
     "ResetFirmwareFile": "reset.raspberry_pico_flash_nuke.uf2",
     "CustomDeviceTypes": [
-      "MOBIFLIGHT_TEMPLATE",
-      "MOBIFLIGHT_TEMPLATE2"
+      "MF_ASI"
     ],
     "Community": {
       "Project": "Your Project",
